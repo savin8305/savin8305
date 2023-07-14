@@ -20,7 +20,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+  <br/>
  ✌️ &emsp; certified full-stack developer <br/><br/>
  ❤️ &emsp; expertise in front-end and back-end development<br/><br/>
  💬 &emsp; possesses the skills to make significant contributions <br/><br/>
