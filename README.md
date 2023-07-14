@@ -13,13 +13,13 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<img align='right' src="https://github.com/savin8305/savin8305/assets/118232727/5f41349f-9196-4ee3-9b42-08ce67d84e60" width="230">
 
 <!-- About Section -->
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  <img align='right' src="https://github.com/savin8305/savin8305/assets/118232727/5f41349f-9196-4ee3-9b42-08ce67d84e60" width="330">
+
   <br/>
  ✌️ &emsp; certified full-stack developer <br/><br/>
  ❤️ &emsp; expertise in front-end and back-end development<br/><br/>
