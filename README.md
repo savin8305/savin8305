@@ -7,7 +7,7 @@
 
 
 <p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=4E79FF&width=435&lines=%E2%9D%A4%EF%B8%8F+full-stack+developer+expertise+in+mern;%E2%9D%A4%EF%B8%8F+problem+solver+1%2B+years+of+coding+experience;%E2%9D%A4%EF%B8%8F+ready+to+learn+new+things+" alt="Typing SVG" /></a></p>
+<a href="https://github.com/savin8305"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=4E79FF&width=435&lines=%E2%9D%A4%EF%B8%8F+full-stack+developer+expertise+in+mern;%E2%9D%A4%EF%B8%8F+problem+solver+1%2B+years+of+coding+experience;%E2%9D%A4%EF%B8%8F+ready+to+learn+new+things+" alt="Typing SVG" /></a></p>
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
