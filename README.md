@@ -129,20 +129,6 @@ Here are some of the projects I'm most proud of.
   [**Live Demo**]([LINK-TO-SHOPDOTS-DEMO])
 </details>
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savin8305&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin8305&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savin8305&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
