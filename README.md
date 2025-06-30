@@ -1,58 +1,158 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <h1>
+    Hi there, I'm Akash Vishwakarma
+  </h1>
+  <h3>
+    A Full-Stack Developer building scalable, SEO-optimized, and multilingual web applications.
+  </h3>
 
-<h2 align="center">
-  Welcome 😀 This is AKASH!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/akash-vishwakarma-545b63248">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="[YOUR-PORTFOLIO-WEBSITE-URL]">
+      <img src="https://img.shields.io/badge/Portfolio-4E79FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://leetcode.com/[YOUR-LEETCODE-USERNAME]">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="mailto:akash.vishwakarma@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
 
+---
 
+### 👨‍💻 About Me
 
-<p align="center" >
-<a href="https://github.com/savin8305"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=4E79FF&width=435&lines=%E2%9D%A4%EF%B8%8F+full-stack+developer+expertise+in+mern;%E2%9D%A4%EF%B8%8F+problem+solver+1%2B+years+of+coding+experience;%E2%9D%A4%EF%B8%8F+ready+to+learn+new+things+" alt="Typing SVG" /></a></p>
+I'm a passionate Full-Stack Developer with expertise in the **Next.js**, **TypeScript**, and **Node.js** ecosystem. My focus is on creating high-performance, user-centric solutions that solve real-world problems. I thrive on optimizing applications, whether it's by boosting data extraction efficiency by **30%** with AI or reducing API latency by **30%** through smart architecture.
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+- 🚀 Building robust backends with **Node.js, Express, and Prisma** for seamless data management with **MySQL**.
+- 🌍 Architecting **internationalized (i18n)** frontends with **Next.js** to support a global user base across **200+** countries.
+- 💡 Integrating **AI-driven tools** and third-party APIs to enhance application functionality and user engagement.
+- 📈 Passionate about **SEO**, performance optimization (**SSR, ISR, SSG**), and creating exceptional user experiences.
+- 🎯 Solved **400+** problems on **LeetCode**, demonstrating a strong foundation in algorithms and data structures.
 
+---
 
-<!-- About Section -->
- # About me
- 
-<p>
-  <img align='right' src="https://github.com/savin8305/savin8305/assets/118232727/5f41349f-9196-4ee3-9b42-08ce67d84e60" width="330">
+### 🛠️ My Tech Stack
 
-  <br/>
- ✌️ &emsp; certified full-stack developer <br/><br/>
- ❤️ &emsp; expertise in front-end and back-end development<br/><br/>
- 💬 &emsp; possesses the skills to make significant contributions <br/><br/>
- 📧 &emsp; Reach me anytime: jobforakash9770@gmail.com
+My toolbox is organized to build modern, full-stack applications from the ground up.
 
-</p>
+<table>
+  <tr>
+    <td width="150px" valign="middle"><strong>💻  Frontend</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="150px" valign="middle"><strong>⚙️  Backend</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="150px" valign="middle"><strong>🗄️  Databases & ORMs</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+      <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge" alt="Drizzle"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="150px" valign="middle"><strong>🛠️  Tools & Platforms</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/VPS-007BFF?style=for-the-badge" alt="VPS"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-<br/>
-<br/>
+---
 
-## Use To Code
+### ✨ Featured Projects
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Here are some of the projects I'm most proud of.
 
-<br/>
+<details>
+  <summary><strong>🌍 Nessco - Internationalized Website & AI Admin Panel</strong></summary>
+  
+  > An enterprise-level website and admin panel built for a global audience, featuring AI-powered translations and lead management. This project highlights my ability to handle complex requirements for internationalization, performance, and data management.
+
+  - **Global Website:** Architected a `Next.js` site with middleware for **internationalization**, supporting **200+** countries and dynamic language detection.
+  - **AI-Powered Admin Panel:** Developed a `Node.js`/`Express` panel with AI translations for **110+** languages across **15+** data models, streamlining content management.
+  - **AI Card Reader:** Built a tool that boosted sales team efficiency by **30%** through automated lead data extraction and CRM integration.
+  - **Performance:** Optimized translation workflows and integrated geolocation APIs, reducing latency by **30%** and API calls by **50%**.
+
+  **Tech Stack:** `Next.js`, `TypeScript`, `Node.js`, `Express`, `MySQL`, `Prisma`, `i18n`, `SEO`, `APIs`
+  
+  [**View Website**]([LINK-TO-NESSCO-WEBSITE])
+</details>
+
+<details>
+  <summary><strong>📄 Business Card Reader for Lead Generation</strong></summary>
+  
+  > A full-stack Next.js application designed to automate lead generation for sales teams. It allows users to upload business card images, automatically extracts contact information, and syncs it with a CRM, Google Sheets, and a central database.
+
+  - **Functionality:** Created a form-based system to upload images, extract data, and sync seamlessly with external services.
+  - **Deployment:** Deployed on a VPS using **Docker**, ensuring scalability and reliability.
+  - **Impact:** Used daily by sales teams and has processed over **1,000+** forms, significantly improving the lead capture process.
+
+  **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `MySQL`, `Docker`, `VPS`, `Google Sheets API`
+  
+  [**Live Demo**]([LINK-TO-BUSINESS-CARD-READER-DEMO])
+</details>
+
+<details>
+  <summary><strong>🛒 Multivendor ShopDots E-commerce Platform</strong></summary>
+  
+  > A complete e-commerce platform built with Next.js, designed to facilitate interactions between customers and multiple vendors.
+
+  - **Core Features:** Developed systems for customer-seller interactions, inquiries, and order management.
+  - **User Experience:** Focused on creating a smooth and intuitive shopping experience from browsing to checkout.
+
+  **Tech Stack:** `Next.js`, `React.js`, `E-commerce`
+  
+  [**Live Demo**]([LINK-TO-SHOPDOTS-DEMO])
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savin8305&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin8305&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savin8305&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect!</h3>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out!</p>
+  <p>
+    <a href="https://www.linkedin.com/in/akash-vishwakarma-545b63248">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:akash.vishwakarma@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
